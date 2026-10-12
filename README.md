@@ -126,5 +126,3 @@ The subject-wise analysis produced the following average marks:
 - Develop a Power BI version with role-based access control for authorized student-level reporting.
 - Automate data preparation and validation to improve reproducibility.
 ---
-
-*This project was developed for educational and portfolio purposes.*
