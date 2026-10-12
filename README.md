@@ -98,7 +98,7 @@ The subject-wise analysis produced the following average marks:
 
 ## Dashboard Preview
 
-![Student Performance Dashboard](Dashboard Screenshot.png)
+![Student Performance Dashboard](https://github.com/VishwasJadhav/Students-Performace-Dashboard/blob/main/Dashboard%20Screenshot.png)
 
 ## Skills Demonstrated
 
