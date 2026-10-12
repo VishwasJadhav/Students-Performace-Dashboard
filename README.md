@@ -81,7 +81,7 @@ The dashboard includes:
 The subject-wise analysis produced the following average marks:
 
 | Subject | Average Marks |
-|---|---:|---:|
+|---|---:|
 | Sociology | 56.72 |
 | Physics | 63.62 |
 | Chemistry | 60.48 |
@@ -98,7 +98,7 @@ The subject-wise analysis produced the following average marks:
 
 ## Dashboard Preview
 
-![Student Performance Dashboard](screenshots/dashboard-preview.png)
+![Student Performance Dashboard](Dashboard Screenshot.png)
 
 ## Skills Demonstrated
 
